@@ -1,0 +1,31 @@
+
+.btn-group button{
+	border: 0px;
+}
+
+
+.btn-group button:hover{
+	background: white;
+}
+
+.btn-group button:active{
+	background: white;
+}
+
+
+.panel-default{
+	border: 0px;
+	border-radius: 0px;
+	box-shadow: 0px 0px 0px;
+}
+
+.panel-default .panel-heading{
+	background: transparent;
+	border: 0px;
+	padding-top: 0px;
+}
+
+.panel-default .panel-body{
+
+	padding-top: 0px;
+}
