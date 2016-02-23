@@ -1,17 +1,27 @@
 
+.profile-info{
+
+ 	padding-top: 30px;
+ 	padding-bottom: 30px;
+	background: #303841;
+	color: white;
+}
+
 .btn-group button{
 	border: 0px;
 }
 
 
+.btn-group button{
+	background: transparent;
+}
 .btn-group button:hover{
-	background: white;
+	background: transparent;
 }
 
 .btn-group button:active{
-	background: white;
+	background: transparent;
 }
-
 
 .panel-default{
 	border: 0px;
@@ -29,3 +39,12 @@
 
 	padding-top: 0px;
 }
+
+#projects .label{
+
+	font-size: 15px;
+}
+
+
+
+
