@@ -1,4 +1,37 @@
 
+/* 
+* orange: #F78536;
+* blue1: #DFEBED;
+* blue2: #497285;
+* blue3: #2B4450;
+* http://colorhunt.co/c/12370
+*/
+
+
+.navbar{
+	background: white;
+	margin: 0;
+	border-radius: 0px;
+	border-width: 0px;
+}
+
+.navbar button{
+	border-width: 1px;
+	border-radius: 2px;
+	border-color: #F78536;
+	background: transparent;
+	color: #F78536;
+}
+
+
+.navbar button:hover{
+	border-radius: 2px;
+	border-color: white;
+	background: #F78536;
+	color: white;
+}
+
+
 .profile-info{
 
  	padding-top: 30px;
@@ -45,6 +78,12 @@
 	font-size: 15px;
 }
 
+.label.label-warning{
+	background: #F78536;
+}
 
+.label.label-primary{
+	background: #497285;
+}
 
 
